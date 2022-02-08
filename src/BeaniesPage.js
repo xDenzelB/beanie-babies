@@ -23,6 +23,7 @@ function App() {
   return (
     <>
       <h2>Current Page {page}</h2>
+      <p>Test Pass</p>
       <div className='buttons'>
         {/* on click, this button should decrement the page in state  */}
         {/* also, disable this button when you are on the first page */}
